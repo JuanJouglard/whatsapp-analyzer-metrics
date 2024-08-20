@@ -1,1 +1,9 @@
-django
+fastapi
+uvicorn
+
+pydantic
+
+pandas
+boto3
+
+python-dotenv
